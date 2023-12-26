@@ -24,7 +24,7 @@ Full Stack Developer / Software Engineer
 Highly dedicated and passionate about problem-solving and software development that is eager to build and develop applications that can be used in the real world.
 
 * 🌍  I'm based in New Jersey
-* ✉️  You can contact me at [retto12345678@gmail.com](mailto:retto12345678@gmail.com
+* ✉️  You can contact me at [retto12345678@gmail.com](mailto:retto12345678@gmail.com)
 * 🧠  I'm learning Next.js, Tailwind CSS, Framer Motion, Three.js
 
 * ### 📲 Socials
