@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Cerreto
 =======================================================================================================================================
 
-Full Stack Developer / Software Engineer
+Software Engineer
 ----------------------------------------
 
 Highly dedicated and passionate about problem-solving and software development that is eager to build and develop applications that can be used in the real world.
