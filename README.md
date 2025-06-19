@@ -21,9 +21,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ----------------------------------------
 
-Highly dedicated and passionate about problem-solving and software development that is eager to build and develop applications that can be used in the real world.
+Highly dedicated and passionate about problem-solving and software development that is eager to build and develop applications that can be used in the real world. Founder of vidbyte.pro
 
-* 🌍  I'm based in New Jersey
+* 🌍  I'm based in New Jersey\
 * ✉️  You can contact me at [retto12345678@gmail.com](mailto:retto12345678@gmail.com)
 * 🧠  I'm currently working on my Startup
 
